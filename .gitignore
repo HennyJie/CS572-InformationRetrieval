@@ -2,3 +2,9 @@ MQ2007
 MQ2008
 .idea
 *.txt
+*.ckpt
+*.csv
+.DS_Store
+*.json
+.vscode/
+*.rar
